@@ -1,8 +1,8 @@
-Lab_5.cache/
-Lab_5.hw/
-Lab_5.ip_user_files/
-Lab_5.sim/
-Lab_5.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
 *.jou
 *.log
 *.str
